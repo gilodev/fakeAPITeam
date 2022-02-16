@@ -7,7 +7,7 @@
           "ulid": "01F4DDKGADMI36VR4J9KMWRTEJ",
           "firstname": "Marcelin",
           "lastname": "Ziago"
-        }
+        },
         "name" : "Equipe CI 1",
         "companies":  [
           {
@@ -19,7 +19,7 @@
 
               }
           }
-        ]
+        ],
         "createdAt": 1642203252,
         "updatedAt" 1644398247,
         "updatedBy": {
@@ -36,7 +36,7 @@
           "ulid": "01F4DDKGADMI36VR4J9KMWRTEJ",
           "firstname": "Massamba",
           "lastname": "Mbaye"
-        }
+        },
         "name" : "Equipe Mali 1",
         "companies":  [
           {
@@ -48,7 +48,7 @@
 
               }
           }
-        ]
+        ],
         "createdAt": 1642203252,
         "updatedAt" 1644398247,
         "updatedBy": {
@@ -65,7 +65,7 @@
           "ulid": "01F4DDKGADMJH6VR4J9KMWRTEJ",
           "firstname": "Massamba",
           "lastname": "Mbaye"
-        }
+        },
         "name" : "Equipe Mali 2",
         "companies":  [
           {
@@ -77,7 +77,7 @@
 
               }
           }
-        ]
+        ],
         "createdAt": 1642203252,
         "updatedAt" 1644398247,
         "updatedBy": {
