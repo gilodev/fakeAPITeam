@@ -1,0 +1,92 @@
+{"APITeam": {
+	"teams": [
+      {
+      
+        "ulid": "01F4DB7AKHI36VR4J9KMWRTEJ",
+        "countryManager": {
+          "ulid": "01F4DDKGADMI36VR4J9KMWRTEJ",
+          "firstname": "Marcelin",
+          "lastname": "Ziago"
+        }
+        "name" : "Equipe CI 1",
+        "companies":  [
+          {
+          "name": "UTB",
+          "accountManager": {
+                "ulid": "01F4DDZIFDADMI36VR4J9KMWRTEJ",
+          "firstname": "Romaric",
+          "lastname": "Yapi"
+
+              }
+          }
+        ]
+        "createdAt": 1642203252,
+        "updatedAt" 1644398247,
+        "updatedBy": {
+          "ulid": "01F4DDFANNYADMI36VR4J9KMWRTEJ",
+          "firstname": "Fanny",
+          "lastname": "Lemoine"
+        } 
+  
+      },
+      {
+      
+        "ulid": "01FL8H7AKHI36VR4J9KMWRTEJ",
+        "countryManager": {
+          "ulid": "01F4DDKGADMI36VR4J9KMWRTEJ",
+          "firstname": "Massamba",
+          "lastname": "Mbaye"
+        }
+        "name" : "Equipe Mali 1",
+        "companies":  [
+          {
+          "name": "Air Niono",
+          "accountManager": {
+                "ulid": "01F4DDZIDH89ADMI36V9KMWRTEJ",
+          "firstname": "Romaric",
+          "lastname": "Yapi"
+
+              }
+          }
+        ]
+        "createdAt": 1642203252,
+        "updatedAt" 1644398247,
+        "updatedBy": {
+          "ulid": "01F4DDSNYADMI36VR4J9KMWRTEJ",
+          "firstname": "Fanny",
+          "lastname": "Lemoine"
+        } 
+  
+      },
+      {
+      
+        "ulid": "01FL8H7ALP36VR4J9KMWRTEJ",
+        "countryManager": {
+          "ulid": "01F4DDKGADMJH6VR4J9KMWRTEJ",
+          "firstname": "Massamba",
+          "lastname": "Mbaye"
+        }
+        "name" : "Equipe Mali 2",
+        "companies":  [
+          {
+          "name": "Poste Mali",
+          "accountManager": {
+                "ulid": "01F4DS43DH89ADMI36VWRTEJ",
+          "firstname": "Romaric",
+          "lastname": "Yapi"
+
+              }
+          }
+        ]
+        "createdAt": 1642203252,
+        "updatedAt" 1644398247,
+        "updatedBy": {
+          "ulid": "01F4DDSNYALKI36VR4J9KMWRTEJ",
+          "firstname": "Fanny",
+          "lastname": "Lemoine"
+        } 
+  
+      }
+    ]
+}
+}
